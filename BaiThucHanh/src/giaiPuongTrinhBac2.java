@@ -15,7 +15,7 @@ public class giaiPuongTrinhBac2 {
 
         // Gọi hàm giải phương trình
         giaiPhuongTrinhBacHai(a, b, c);
-        scanner.close();con caca
+        scanner.close();
     }
     public static void giaiPhuongTrinhBacHai(double a, double b, double c) {
         double delta = b * b - 4 * a * c;
