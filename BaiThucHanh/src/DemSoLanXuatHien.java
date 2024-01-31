@@ -8,8 +8,7 @@ public class DemSoLanXuatHien {
         String chuoi = scanner.nextLine();
 
         if (chuoi.length() > 80) {
-            System.out.println("Chuoi qua dai. Vui long nhap lai.");
-            return;
+            System.out.println("Chuoi qua dai. Vui long nhap lai.");          
         }
 
         // Nhập ký tự cần đếm
