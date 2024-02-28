@@ -16,19 +16,15 @@ public class HocSinh {
 
         System.out.println("msv: ");
         msv = scanner.nextFloat();
-        System.out.println("msv: " + msv);
 
         System.out.println("diem toan: ");
         diemToan = scanner.nextFloat();
-        System.out.println("diem toan: " + diemToan);
 
         System.out.println("diem van: ");
         diemVan = scanner.nextFloat();
-        System.out.println("diem van: " + diemVan);
 
         System.out.println("diem hoa: ");
         diemHoa = scanner.nextFloat();
-        System.out.println("diem hoa : " + diemHoa);
               
         scanner.close();
     }
