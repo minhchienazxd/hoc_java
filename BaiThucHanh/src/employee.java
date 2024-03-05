@@ -1,9 +1,9 @@
 import java.util.Scanner;
-public class ConNguoi {
+public class employee {
     String ten;
     float NamSinh;
-    float CanNang;
-    float ChieuCao;
+    float luong;
+    String congViec;
     float tuoi;
 
     public static void main(String[] args) {}
@@ -18,10 +18,10 @@ public class ConNguoi {
         NamSinh = scanner.nextFloat();
 
         System.out.println("can nang: ");
-        CanNang = scanner.nextFloat();
+        luong = scanner.nextFloat();
 
         System.out.println("chieu cao: ");
-        ChieuCao = scanner.nextFloat();
+        congViec = scanner.nextLine();
         scanner.close();
     }
     void TinhTuoi() 
@@ -32,8 +32,8 @@ public class ConNguoi {
     {
         System.out.println("ten : " + ten);
         System.out.println("nam sinh : " + NamSinh);
-        System.out.println("chieu cao : " + ChieuCao);
-        System.out.println("can nang : " + CanNang);
+        System.out.println("chieu cao : " + luong);
+        System.out.println("can nang : " + congViec);
         System.out.println("tuoi : " + tuoi);
 
 
