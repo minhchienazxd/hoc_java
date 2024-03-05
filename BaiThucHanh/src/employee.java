@@ -17,10 +17,10 @@ public class employee {
         System.out.println("nam sinh: ");
         NamSinh = scanner.nextFloat();
 
-        System.out.println("can nang: ");
+        System.out.println("luong: ");
         luong = scanner.nextFloat();
 
-        System.out.println("chieu cao: ");
+        System.out.println("cong viec: ");
         congViec = scanner.nextLine();
         scanner.close();
     }
