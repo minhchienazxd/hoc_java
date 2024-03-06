@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TrungBinhCong {
+public class TrungBinhCong_bai8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

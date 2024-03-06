@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TinhGiaiThua {
+public class TinhGiaiThua_bai6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

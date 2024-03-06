@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class SapXepMang {
+public class SapXepMang_bai11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class XacDinhNhomTuoi {
+public class XacDinhNhomTuoi_bai3 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhap ten cua ban: ");

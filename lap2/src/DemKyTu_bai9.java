@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DemKyTu {
+public class DemKyTu_bai9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
