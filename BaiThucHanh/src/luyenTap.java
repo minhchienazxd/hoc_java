@@ -15,4 +15,3 @@ public class luyenTap {
         scanner.close();
     }
 }
-my
