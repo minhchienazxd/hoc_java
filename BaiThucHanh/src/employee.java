@@ -37,10 +37,5 @@ public class employee {
         System.out.println("tuoi : " + tuoi);
 
 
-    }
-
-
-
-    
-    
+    }  
 }
