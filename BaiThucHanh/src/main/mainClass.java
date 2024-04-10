@@ -10,7 +10,10 @@ public class mainClass {
         p.persons();
         employee e = new employee();
         e.employees();
-       
+        employee_fulltime ef = new employee_fulltime();
+        ef.employee_fulltimes();
+        employee_pasttime ei = new employee_pasttime();
+        ei.employee_pasttimes();
     }
     
 }
