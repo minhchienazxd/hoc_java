@@ -8,6 +8,7 @@ public class person {
         System.out.println("tuoi: " + tuoi);
         System.out.println("sdt: " + sdt);       
     }
+    
 }
 
 

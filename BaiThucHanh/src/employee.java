@@ -35,7 +35,17 @@ public class employee {
         System.out.println("chieu cao : " + luong);
         System.out.println("can nang : " + congViec);
         System.out.println("tuoi : " + tuoi);
+    } 
+public class ma extends employee{
+    @Override
+    void InThongTin()
+    {
+        System.out.println("ten : " + ten);
+        System.out.println("nam sinh : " + NamSinh);
+        System.out.println("chieu cao : " + luong);
+        System.out.println("can nang : " + congViec);
+        System.out.println("tuoi : " + tuoi);
+    }
 
-
-    }  
+} 
 }
