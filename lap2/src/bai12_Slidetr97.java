@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TinhPhanTuLonNhatCuaMaTran_bai12 {
+public class bai12_Slidetr97 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

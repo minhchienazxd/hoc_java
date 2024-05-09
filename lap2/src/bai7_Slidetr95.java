@@ -1,4 +1,4 @@
-public class In20SoNguyenDuong_bai7 {
+public class bai7_Slidetr95 {
     public static void main(String[] args) {
         // In ra 20 số nguyên dương đầu tiên
         System.out.println("20 so nguyen duong dau tien:");

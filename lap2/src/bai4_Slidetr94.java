@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HienThiNgayTrongTuan_bai4 {
+public class bai4_Slidetr94 {
     public static void main(String[] args) {
         // Tạo đối tượng Scanner để nhập từ bàn phím
         Scanner scanner = new Scanner(System.in);
